@@ -22,7 +22,7 @@ By including previous grades, the model's reliability saw a massive jump compare
 ### 1. Factor Importance
 As shown in `image_62c365.png`, the most recent grade ($G2$) and the engineered academic average are the most dominant predictors.
 
-![Factor Importance](.imp_factors.png)
+![Factor Importance](imp_factors.png)
 
 ### 2. Regression Analysis
 The model demonstrates a strong linear correlation between actual and predicted grades, with very few outliers.
